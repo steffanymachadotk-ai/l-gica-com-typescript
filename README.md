@@ -1,2 +1,2 @@
-# l-gica-com-typescript
+# logica-com-typescript
 primeiro comando
