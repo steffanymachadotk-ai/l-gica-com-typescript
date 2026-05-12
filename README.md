@@ -1,2 +1,2 @@
 # logica-com-typescript
-primeiro comando
+Iniciando com vim
