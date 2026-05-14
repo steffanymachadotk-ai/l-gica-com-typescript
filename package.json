@@ -19,6 +19,7 @@
   "homepage": "https://github.com/glesiosantos/logica-com-typescript#readme",
   "devDependencies": {
     "@types/node": "^25.6.2",
+    "@types/readline-sync": "^1.4.8",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3"
   },
